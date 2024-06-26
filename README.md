@@ -71,10 +71,6 @@
 
 <br clear="both">
 
-<div align="left">
-  <a href="https://open.spotify.com/user/2r9hyaratousn3vhfjet8dgmg">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=2r9hyaratousn3vhfjet8dgmg&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+[![Play Spotify](https://panntod-spotify-readme.vercel.app/api)](https://open.spotify.com/user/2r9hyaratousn3vhfjet8dgmg)
 
 ###
