@@ -67,6 +67,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Lwarentina.Lwarentina&right_color=firebrick&left_text=my%20porfile%20opened"  />
 </div>
 
+<br clear="both">
+
 ###
 
 <h2 align="left">Now Listening:</h1>
