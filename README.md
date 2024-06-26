@@ -1,12 +1,6 @@
-<h1 align="left">Stats:</h1>
-
-###
-
-<div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Lwarentina&show_icons=true&theme=onedark">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Lwarentina&layout=compact&theme=onedark" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Lwarentina&theme=github">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=Lwarentina&theme=onedark" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lwarentina&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lwarentina&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -45,7 +39,7 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/105219600?v=4"  />
+<img align="left" height="150" src="https://avatars.githubusercontent.com/u/105219600?v=4"  />
 
 ###
 
@@ -69,12 +63,18 @@
 
 ###
 
-<br clear="both">
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lwarentina.Lwarentina&right_color=firebrick&left_text=my%20porfile%20opened"  />
+</div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lwarentina.Lwarentina&right_color=darkgreen"  />
+<br clear="both">
+
+<div align="right">
+  <a href="https://open.spotify.com/user/2r9hyaratousn3vhfjet8dgmg">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=2r9hyaratousn3vhfjet8dgmg&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
