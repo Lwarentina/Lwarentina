@@ -67,14 +67,3 @@
 
 <br clear="both">
 
-###
-
-<h1 align="left">Now Listening:</h1>
-
-###
-
-<br clear="both">
- 
-[![Play Spotify](https://panntod-spotify-readme.vercel.app/api)](https://open.spotify.com/user/2r9hyaratousn3vhfjet8dgmg)
-
-###
