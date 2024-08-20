@@ -47,10 +47,6 @@
 
 ###
 
-<img align="left" height="150" src="https://avatars.githubusercontent.com/u/105219600?v=4"  />
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/griseo.rn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -67,12 +63,6 @@
   <a href="https://discord.com/users/903068305663881249" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-</div>
-
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lwarentina.Lwarentina&right_color=firebrick&left_text=my%20porfile%20opened"  />
 </div>
 
 <br clear="both">
