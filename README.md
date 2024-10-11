@@ -11,10 +11,6 @@
 
 ###
 
-<h1 align="left">Languages and Tools:</h1>
-
-###
-
 <h1 align="left">Socials:</h1>
 
 ###
