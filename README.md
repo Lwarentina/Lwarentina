@@ -4,7 +4,7 @@
 
 ###
 
-<div>
+<div align="center">
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Lwarentina&show_icons=true&theme=onedark">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Lwarentina&layout=compact&theme=onedark" />
 </div>
@@ -15,7 +15,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/griseo.rn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
