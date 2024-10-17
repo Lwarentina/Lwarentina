@@ -8,7 +8,7 @@ pls kms
 
 <div align="center">
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=Lwarentina&show_icons=true&theme=onedark">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Lwarentina&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Lwarentina&layout=compact&theme=onedark" />
 </div>
 
 ###
