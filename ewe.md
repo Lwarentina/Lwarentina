@@ -11,5 +11,3 @@ Inspections are a vital part of OSHA’s enforcement system. They typically foll
 OSHA also emphasizes education and access to resources. Within the workplace, employees can rely on hazard labels, Safety Data Sheets (SDSs), manuals, and training materials. Outside resources include the OSHA website, healthcare professionals, and libraries for further information.  
 
 In conclusion, OSHA plays a critical role in protecting America’s workforce by setting and enforcing standards while also empowering employees with rights and knowledge. However, true workplace safety depends on the cooperation of both employers and workers to identify hazards, maintain protections, and uphold safe working environments.  
-
-![ely](https://media1.tenor.com/m/anikuC87XogAAAAd/elysia-clap.gif)
