@@ -1,78 +1,178 @@
-# Intro to OSHA
+# What is Risk Management? \| Introduction to Risk Management \| Invensis Learning
 
-The **Occupational Safety and Health Administration (OSHA)** is an agency under the U.S. Department of Labor, created through the **Occupational Safety and Health Act (OSH Act) of 1970**. Before OSHA existed, there were no national laws that specifically protected workers from safety and health hazards. Its mission is clear: **to save lives, prevent injuries, and protect the health of America’s workers** by ensuring safe and healthy workplace conditions.  
+## Why We Need Risk Management
 
-OSHA covers a wide range of industries, such as **manufacturing, construction, agriculture, medicine, longshoring, disaster relief**, and even religious organizations when they employ workers for non-religious purposes.  
+-   Projects and organizations require different approaches.
+-   Risk management is a structured discipline applicable to both large
+    and small projects.
+-   It helps identify **strengths, weakneses, opportunities, and
+    threats (SWOT)**.
+-   Prepare teams for unexpected event, ensuring project success.
+-   Project manager who prioritize risk management improve chances of
+    reaching strategic goals.
 
-To achieve its mission, OSHA:  
-- Develops and enforces job safety and health standards.  
-- Conducts worksite inspections.  
-- Requires employers to maintain injury and illness records.  
-- Provides training programs to improve knowledge of occupational safety and health.  
-- Supports state-run occupational safety programs.  
+## Definition of Risk Management
 
-### Employer Responsibilities  
-Employers are legally obligated to provide a safe workplace. If no specific standards exist, they must still comply with the **General Duty Clause**, which requires workplaces to be free of recognized hazards. Employers must:  
-- Establish safety policies and administrative controls.  
-- Use **engineering controls** to reduce risks.  
-- Provide **personal protective equipment (PPE)** when hazards cannot be fully eliminated.  
-- Pay for most required PPE and train employees on its correct use.  
-- Report fatalities within **8 hours** and serious incidents (hospitalization, amputation, or eye loss) within **24 hours**.  
-- Keep accurate records of injuries and illnesses.  
+-   Project risk management involves **planning, identification,
+    analysis, responses, and monitoring/control** of risks.
+-   Objective: **create positive impact** on events by identifying and
+    prioritizing some risks before they occur.
+-   Risks are described in terms of **probabiility of occurrence**.
 
-### Worker Rights  
-Workers have key rights under OSHA, including:  
-- The right to a **safe and healthy workplace**.  
-- The right to **know about workplace hazards and chemicals**.  
-- The right to **training and information**.  
-- The right to **access injury and illness records**.  
-- The right to **file complaints** with OSHA and participate in inspections.  
-- Protection against **retaliation** for reporting unsafe conditions.  
+## Role in Project Management
 
-### OSHA Inspections  
-Inspections are a major enforcement tool and follow four stages:  
-1. Presenting credentials.  
-2. Opening conference.  
-3. Walk-around inspection.  
-4. Closing conference.  
+-   Risk management is **not optional**; it should be integrated into
+    all projectt stages and documentation.
+-   Addresses uncertainty in estimates and assumptions, extending
+    processes like **scheduling, budgeting, and change management**.
+-   Provides the basis for estimating **contingency reserves**.
+-   Early stages: **high exposure, low information** → early analysis
+    makes plans more realistic.
+-   Applied throughout the **project life cycle** to monitor, respond
+    to, and retire risks.
+-   Supports **realistic expectations** for costs, schedules, and
+    lessons for continuous improvement.
 
-If violations are found, OSHA issues **citations and penalties** depending on the severity. Employers and workers both have rights to contest aspects of citations, though workers cannot dispute the penalties directly.  
+## Success Factors
 
-### Resources  
-Safety information can be accessed both inside and outside the workplace:  
-- **Inside**: Labels, warning signs, Safety Data Sheets (SDSs), training manuals, and procedures.  
-- **Outside**: OSHA’s official website (www.osha.gov), healthcare professionals, and libraries with safety and health resources.  
+1.  Recognize the **value** of risk management (positive ROI).
+2.  **Individual comitment** all stakeholders accept responsibility.
+3.  **Open communication** to discuss risks freely.
+4.  **Organizational commitment** align with organizational goals.
+5.  Scale efforts according to **project value**.
+6.  **Integration** with project management processes.
+
+## Risk Management Processes
+
+1.  **Plan Risk Management**
+    -   Develops risk management strategy.
+    -   Outputs: **Risk Management Plan** with methodology, roles,
+        communication, stakeholder tolerance.
+    -   Tools: planning sessions, templates.
+2.  **Identify Risks**
+    -   Iterative process using historical data, current assessments,
+        creativity techniques.
+    -   Output: **Risk Register** (risk description, owner, triggers,
+        preliminary responses).
+3.  **Perform Qualitative Risk Analysis**
+    -   Assesses risks individually for **probability and impact**.
+    -   Prioritizes risks by objective and overall project impact.
+    -   Updates Risk Register with priorities and watchlists.
+4.  **Perform Quantitative Risk Analysis**
+    -   Provides **numerical estimates** of risk impact on objectives.
+    -   Informs contingency reserves for time and cost.
+    -   Uses models, probability methods, data gathering, and repeated
+        analysis.
+5.  **Plan Risk Responses**
+    -   Develops **actions to mitigate or exploit risks**.
+    -   Uses creativity tools, decision support, and planning
+        techniques.
+    -   Updates Risk Registr and project management plan with residual
+        risks and responses.
+6.  **Monitor and Control Risks**
+    -   Ensures plans are executed, updated, and reviewed.
+    -   Tracks contingency reserves, triggers, compliance, and
+        effectiveness.
+    -   Final step: record data for **future organizational learning**.
+
+------------------------------------------------------------------------
+
+**Conclusion:**\
+Risk management is a vital discipline that integrates with all aspects
+of project management. It ensures realistic planning, continuous
+monitoring, and adaptability, ultimately supporting project success and
+organizational growth.
 
 ---
 
-### Conclusion  
-OSHA plays a vital role in protecting workers across the United States by setting and enforcing standards, requiring employer compliance, and ensuring workers understand their rights. While OSHA provides regulations and oversight, achieving a truly safe workplace depends on **cooperation between employers and employees** in identifying and reducing hazards.  
+# Risk Management in Occupational Health & Safety
+
+Risk managemennt in OHS is a systematic, proactive approach to identifying, assessing, and controlling hazards in the workplace to protect people, assets, and reputation. It goes beyond mere regulatory compliance it aims to build a culture of safety where every individual understands hazards and their role in preventing harm.
+
+## Why it matters
+- **Human impact:** Proper risk management prevents injuries, long term health issues, and fatalities.  
+- **Financial impact:** Failing to manage risks can lead to litigation, lost productivity, repair costs, and damaged reputation.  
+- **Cultural impact:** A strong safety culture improves morale, retention, and trust among employees and stakeholders.
+
+## The XYZ Corporation case (illustrative)
+An automobile manufacturer (XYZ Corporation) experienced a catastrophic mechanical failure on a production line. Contributing factors included:
+- Aging machinery and skipped maintenance.
+- Outdated equipment that did not meet current safety standards.
+- Lack of regular emergency and safety training for staff.
+- Absence of a crisis management team or clear emergency procedures.
+
+Consequences included production shutdowns, multi million dollar financial losses, negative publicity, injured employees with long term health effects, low workforce morale, and legal action.
+
+## Key lessons learned
+1. **Thorough risk assessment is essential.** Identifying hazards early helps anticipate and prevent incidents.  
+2. **Be proactive with safety measures.** Maintenance, equipment upgrades, and engineering controls reduce the chance of failure.  
+3. **Employee training saves lives.** Ongoing, practical training empowers workers to prevent and respond to hazards.  
+4. **Crisis preparedness matters.** A clear crisis response plan and team limit damage when incidents occur.  
+5. **Continuous learning and improvement.** Post-incident reviews feed organizational learning and strengthen future risk controls.
+
+## Practical risk management steps for OHS
+1. **Conduct comprehensive risk assessments**
+   - Identify hazards, evaluate likelihood and severity, and prioritize risks.
+   - Include both current and potential future risks.
+
+2. **Implement risk controls**
+   - Follow the hierarchy of controls: Elimination, Substitution, Engineering controls, Administrative controls, and Personal Protective Equipment (PPE).
+   - Prioritize controls based on risk severity.
+
+3. **Provide regular training and competency building**
+   - Train employees on routine safe work procedures, emergency response, and hazard recognition.
+   - Use drills and practical exercises to reinforce learning.
+
+4. **Establish monitoring and maintenance programs**
+   - Schedule preventive maintenance and inspections.
+   - Track performance metrics and trigger conditions.
+
+5. **Foster a safety culture**
+   - Encourage open communication about hazards and near misses.
+   - Recognize and reward safe behaviours and proactive reporting.
+   - Ensure leadership visibly supports and resources safety initiatives.
+
+6. **Prepare for crisis**
+   - Develop and rehearse emergency plans.
+   - Assign a crisis management team with clear roles and communication channels.
+
+7. **Review and learn**
+   - After incidents or near-misses, perform root-cause analysis.
+   - Update procedures, training, and risk registers accordingly.
 
 ---
 
-# Top 6 Workplace Hazards Identified  
-
-Hazards exist in every workplace, but some have greater potential to cause harm. By identifying hazards, organizations can take steps to control or eliminate them, preventing accidents, injuries, illnesses, property damage, and downtime. A thorough hazard assessment is an essential part of any safety program. A hazard is defined as **any source of potential damage, harm, or adverse health effects** to workers, property, or the environment. Hazards can be grouped into six main categories: biological, physical, ergonomic, chemical, psychological, and safety hazards.  
-
-### 1. Biological Hazards  
-Biological hazards include bacteria, viruses, fungi, and other organisms that can harm health. Examples include blood and body fluids, mold, insect bites, poisonous plants, animal and bird droppings, and pathogens like tuberculosis-causing bacteria. Protective clothing, respiratory equipment, and proper hygiene practices such as thorough washing can reduce the risks of exposure.  
-
-### 2. Physical Hazards  
-Physical hazards are not always visible but can be very dangerous. They include radiation, extreme temperatures, loud noises, poor lighting, and exposure to sun or ultraviolet rays. These hazards often go unnoticed but can cause significant long-term damage to hearing, skin, or overall health.  
-
-### 3. Ergonomic Hazards  
-Ergonomic hazards arise from poor workplace design or repetitive strain. Examples include improper workstation setup, frequent lifting, awkward or repetitive movements, poor posture, and vibration. Short-term exposure may cause soreness, while long-term exposure can lead to chronic musculoskeletal disorders.  
-
-### 4. Chemical Hazards  
-Chemicals in solid, liquid, or gas form can harm workers. Common examples include cleaning agents, paints, solvents, acids, gases like carbon monoxide or propane, fumes from welding, and flammable materials like gasoline. Even everyday chemicals may cause illness for sensitive workers, making proper labeling, ventilation, and protective equipment essential.  
-
-### 5. Psychological Hazards  
-Work-related stress and mental health risks are categorized as psychological hazards. These include bullying, harassment, workplace violence, fatigue, excessive workload, customer aggression, remote or isolated work, and frequent workplace changes. While good work contributes to mental well-being, poor conditions can negatively impact health and morale.  
-
-### 6. Safety Hazards  
-Safety hazards are the most common and include unsafe physical conditions such as spills, blocked aisles, cords on the floor, working from heights, unguarded machinery, electrical hazards, confined spaces, and malfunctioning equipment. Heavy machinery, missing machine guards, or improper lockout/tagout procedures also increase risks. These hazards can cause direct injuries and trigger secondary risks, such as damaged protective equipment leading to chemical exposure.  
+**Conclusion:**\
+Risk management in OHS is a moral and strategic obligation. It protects peoples first, while safeguarding an organization’s operational continuity, finances, and reputation. By being proactive assessing hazards, applying controls, training staff, and fostering a safety first culture organizations can significantly reduce accidents and create healthier, more productive workplaces. A safe workplace is an investment, not a cost.
 
 ---
 
-### Conclusion  
-By recognizing these six categories of hazards—**biological, physical, ergonomic, chemical, psychological, and safety hazards**—employers and workers can work together to reduce risks. Conducting regular hazard assessments, implementing controls, and promptly reporting hazards to supervisors are critical steps in creating a safe and healthy workplace. Identifying hazards is the foundation of prevention, ensuring that accidents and illnesses are minimized while productivity and worker well-being are maintained.  
+# Hierarchy of Controls in Workplace Health
+
+The hierarchy of controls is a framework for reducing worklace hazards by prioritizing the most effective strategies. It emphasizes that effective risk management comes from making changes to the workplace or environment, rather than relying solely on individual behavior.
+
+## Overview of the Hierarchy
+The hierarchy is structured from most effective to least effective:
+1. **Eliminations** - Remove the hazards completely.  
+2. **Substitutions** - Replace the hazard with something mroe safe.  
+3. **Engineering Controls** - Isolate people from hazards.  
+4. **Administrative Controls** - Change the way work is organized.  
+5. **Personal Protective Equipment (PPE)** - Rely on workers to wear and use protective gear.
+
+This structures reflects that interventions requiring less worker dependence are more reliable than those that rely heavily on consistent individual behavior.
+
+## Examples of Controls
+- **Eliminnation:** If noise is caused by a specific machine, the best solution is to stop using the equipment altogether. Removing the hazard ensures no exposure at all.  
+- **Substitutions:** If elimination is impossible, replace the hazard with something more safe. For example, using construction equipment with enclosed cabs reduces the noise exposure compared to some open cabs.  
+- **Engineering Controls:** Install systems that reduce hazards at the source. A common example is ventilation in woodworking or agricultural environments to remove dust and improve air quality.  
+- **Administrative Controls:** Adjust works practices to reduce exposure. This could include worker rotation to prevent repetitive strain injuries, rest breaks to avoid fatigue, or scheduling adjustments to limit time in hazardous environments.  
+- **PPE:** The last line of defense. Examples include respirators in dusty environnments or hearing protection in noisy areas. However, PPE depends on proper fit, consistent use, and adequate training, making it less reliable compared to higher-level controls.
+
+## Importance in Workplace Health
+Effective workplace health requires going beyond educating inndividuals about risks. While personal knowledge is important, health outcomes improve when environmental and organizational factors are addressed. For example, to protect workers with asthma, organizations must improve air quality, substitute harmful chemicals with more safe alternatives, ensure proper ventilation, and enforce anti-smoking policies. Relying solely on PPE or education is insufficient.
+
+---
+
+**Conclusion:**\
+The hierarchy of controls highlights that the most impactful workplace health strategies are those that modify the workplace environnment and processes rather than placing responnsibility solely on workers. By prioritizing eliminations, substitutions, and engineering solutions, organizations create safer, healthier workplaces where risks are reduced at their source. Administrative policies and PPE still play roles but should be connsidered supplementary layers of protection rather than primary solutiions.
+
