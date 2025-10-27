@@ -1,18 +1,12 @@
+![ely](https://media1.tenor.com/m/anikuC87XogAAAAd/elysia-clap.gif)
+
+###
+
 pls kms
 
 ###
 
-<h1 align="left">Github Stats:</h1>
-
-###
-
-<div align="left">
-  <img width="360px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Lwarentina&layout=compact&theme=onedark" />
-</div>
-
-###
-
-<h1 align="left">Socials:</h1>
+<h1 align="left">Connect with me</h1>
 
 ###
 
@@ -33,7 +27,13 @@ pls kms
 
 ###
 
-![ely](https://media1.tenor.com/m/anikuC87XogAAAAd/elysia-clap.gif)
+<h1 align="left">Github Stats:</h1>
+
+###
+
+<div align="left">
+  <img width="360px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Lwarentina&layout=compact&theme=onedark" />
+</div>
 
 <br clear="both">
 
