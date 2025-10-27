@@ -7,7 +7,6 @@ pls kms
 ###
 
 <div align="center">
-  <img width="360px" src="https://github-readme-stats.vercel.app/api?username=Lwarentina&show_icons=true&theme=onedark">
   <img width="360px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Lwarentina&layout=compact&theme=onedark" />
 </div>
 
@@ -31,6 +30,8 @@ pls kms
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
+
+![ely](https://media1.tenor.com/m/anikuC87XogAAAAd/elysia-clap.gif)
 
 <br clear="both">
 
