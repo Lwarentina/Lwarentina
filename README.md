@@ -2,7 +2,7 @@
 
 ###
 
-pls kms
+procrastinating from success, doing the bare minimum.
 
 ###
 
