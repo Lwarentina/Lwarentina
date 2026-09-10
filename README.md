@@ -3,6 +3,7 @@
 ###
 
 procrastinating from success, doing the bare minimum.
+I had enough with frontend.
 
 ###
 
